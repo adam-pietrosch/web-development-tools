@@ -1,0 +1,43 @@
+Never forget these tools:
+
+Free images and graphics:
+- https://undraw.co/illustrations
+- http://thepatternlibrary.com/
+- https://www.pexels.com/cs-cz/
+- https://unsplash.com/
+- https://getwaves.io/
+
+Design:
+- Adobe XD, Figma
+- https://coolors.co/
+
+Best Javascript libraries:
+- Chart.js (Charts)
+- Three.js (Graphics)
+- Pixi.js (WebGl graphics)
+- Reveal.js (Presentations)
+- Howler.js (Audio)
+- Gsap.js (Animations)
+- FullPage.js (Scroll sections)
+- ScrollMagic.js (Scrolling effects)
+- Editor.js (Markdown editing)
+- SimpleParallax.js (Best parallax effects)
+- Rellax.js (Parralax multiple items)
+- ScrollReveal.js (Show elements on scroll)
+- Swup.js (Simple page transitions)
+- Barba.js (More complicated page transitions)
+
+Usefull tools:
+- https://tinypng.com/ (compress images)
+- Google Analytics
+- https://www.thinkwithgoogle.com/intl/en-cee/feature/testmysite/ (speed test)
+- https://carbon.now.sh/ (image from source code)
+
+Free hosting:
+- Netlify (Better for static websites)
+- Heroku
+- Mongo Atlas (Database hosting)
+- Firebase
+
+
+
