@@ -26,6 +26,7 @@ Best Javascript libraries:
 - ScrollReveal.js (Show elements on scroll)
 - Swup.js (Simple page transitions)
 - Barba.js (More complicated page transitions)
+- Particle.js (Epic particles interactive backgrounds)
 
 Usefull tools:
 - https://tinypng.com/ (compress images)
