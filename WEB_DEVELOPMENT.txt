@@ -6,6 +6,7 @@ Free images and graphics:
 - https://www.pexels.com/cs-cz/
 - https://unsplash.com/
 - https://getwaves.io/
+- https://generated.photos/
 
 Design:
 - Adobe XD, Figma
