@@ -1,6 +1,7 @@
 Never forget these tools:
 
 Free images and graphics:
+- https://icons8.com/illustrations
 - https://undraw.co/illustrations
 - http://thepatternlibrary.com/
 - https://www.pexels.com/cs-cz/
@@ -12,6 +13,10 @@ Free images and graphics:
 Design:
 - Adobe XD, Figma
 - https://coolors.co/
+
+Typografy:
+- https://fontjoy.com/ (Random fonts)
+- https://fonts.google.com/
 
 Best Javascript libraries:
 - Chart.js (Charts)
